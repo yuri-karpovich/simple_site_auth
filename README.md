@@ -8,7 +8,9 @@
     
  where:
     `foo` - username
-    `bar` - password
+    `bar` - password 
     `/path/to/local/html` - folder on your local machine with your index.html
     
 That's it! You can access your site by link http://localhost:8080/ (http://<YOUR_MACHINE_IP>:8080/) 
+
+> `USER` and `PASSWORD` parameters are optional
